@@ -50,6 +50,7 @@ function Home(){
                     )
                 })}
             </div>
+            <dic></dic>
         </div>
     );
 }
